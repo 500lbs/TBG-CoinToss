@@ -43,8 +43,8 @@ public class Jetpack : MonoBehaviour
         rb1.AddRelativeForce(Vector3.forward * thrustInput);
         thrustInput = Input.GetAxis("Vertical");
 
-        rb1.AddTorque(turnInput);
-        turnInput = Input.GetAxis("Horizontal");
+//        rb1.AddTorque(turnInput);
+//        turnInput = Input.GetAxis("Horizontal");
     }
 
     private void CheckP2Movement()

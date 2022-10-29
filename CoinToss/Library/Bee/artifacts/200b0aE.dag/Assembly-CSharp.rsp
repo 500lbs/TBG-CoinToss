@@ -354,6 +354,7 @@
 "Assets/Steve/Scripts/Jetpack.cs"
 "Assets/Steve/Scripts/JetPack1.cs"
 "Assets/Steve/Scripts/JetPack2.cs"
+"Assets/Steve/Scripts/Ship.cs"
 "Assets/_Main/Scripts/UIManager.cs"
 -langversion:9.0
 
